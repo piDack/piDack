@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @piDack
 - 👀 I’m interested in C++,Program performance and HPC.
-- 🌱 I’m currently learning CUDA
+- 🌱 I’m currently learning CUDA/oneAPI.
+- ✨ I’m a student in Univ of Shanghai For Science and Tech .
 
 
 <!---
