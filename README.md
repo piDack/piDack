@@ -14,7 +14,7 @@
 
 ## Github Overview
 
-![piDack's Github stats](https://github-readme-stats.vercel.app/api?username=piDack&show_icons=true)
+![piDack's Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=piDack&include_all_commits=true&count_private=true&show_icons=true&locale=en)
 
 
 
