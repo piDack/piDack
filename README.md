@@ -12,10 +12,6 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 
-## Github Overview
-
-![piDack's Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=piDack&include_all_commits=true&count_private=true&show_icons=true&locale=en)
-
 
 
 <!---
