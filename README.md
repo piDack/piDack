@@ -1,9 +1,9 @@
 ## Brief
 
-- 👋 Hi, I’m @piDack .
-- 👀 I’m interested in C++,Program performance and HPC.
-- 🌱 I’m currently learning CUDA/DPC++(Sycl).
-- ✨ I’m a student in Univ of Shanghai For Sci and Tech.
+- 👋 Hi, I’m @piDack ;
+- 👀 I’m interested in C++,Program Performance and HPC;
+- 🌱 I’m currently learning CUDA/DPC++(Sycl) & numerical analysis;
+- ✨ I'm a graduate student at the Univ of Shanghai For Sci and Tech;
 - 🎇 My [articles and some translations](https://www.zhihu.com/people/pcdack) .
 
 ## Languages
